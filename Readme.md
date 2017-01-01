@@ -44,4 +44,5 @@ This can also be done by using @Input , but that clutters your code, and it is g
 
 Thank You.
 
+Please wait for my detailed blog on ng-content, viewchildren and viewcontentchildren
 
