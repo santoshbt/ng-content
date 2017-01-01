@@ -1,6 +1,7 @@
 This code snippet explains how ng-content works
 
-ng-content is mainly used to insert the template data from host comonent to child component
+ng-content is mainly used to insert the template data from child comonent to host component.
+There is detailed explanation in my blogpost http://santoshturamari.blogspot.in/
 
 For Ex:
 
@@ -44,5 +45,5 @@ This can also be done by using @Input , but that clutters your code, and it is g
 
 Thank You.
 
-Please wait for my detailed blog on ng-content, viewchildren and viewcontentchildren
+Keep following in my blog http://santoshturamari.blogspot.in/
 
